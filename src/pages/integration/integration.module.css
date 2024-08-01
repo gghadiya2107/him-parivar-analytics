@@ -1,0 +1,29 @@
+.innerCard{
+    background: linear-gradient(270deg, rgba(115, 103, 240, 0.7) 0%, #7367f0 100%);
+    color: #FFF;
+    text-align: center;
+    /* font-size: large; */
+    padding: 13px 0;
+    font-size: 19px;
+    border-radius: 4px;
+}
+
+.innerbody{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    text-align: center;
+    width: 90%;
+    font-size: 30;
+}
+
+.desc{
+    margin-top: 10px;
+    color: #858796;
+}
+
+.mapped{
+    color: #32CD96  ;
+}
