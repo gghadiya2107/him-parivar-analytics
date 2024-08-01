@@ -1,0 +1,29 @@
+.signin {
+    color: #fff;
+    background: linear-gradient(270deg, rgba(115, 103, 240, 0.7) 0%, #7367f0 100%);
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    line-height: 1.5;
+    height: 35px;
+    padding: 5px 15px;
+    border-radius: 4px;
+    outline: none;
+    position: relative;
+    display: inline-block;
+    font-weight: 400;
+    white-space: nowrap;
+    text-align: center;
+  
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+    user-select: none;
+    touch-action: manipulation;
+    display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: fit-content;
+      box-shadow: 0 .125rem .375rem 0 rgba(115, 103, 240, .3);
+  }
+  
